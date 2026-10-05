@@ -1,0 +1,22 @@
+{
+  "name": "reallaw-ai",
+  "displayName": "realLaw AI",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Research published UAE legislation and legal updates with realLaw AI, using source documents and citations.",
+  "author": {
+    "name": "realLaw AI",
+    "email": "support@reallaw.ai",
+    "url": "https://reallaw.ai"
+  },
+  "homepage": "https://github.com/reallawuae/reallaw-ai-claude-plugin#readme",
+  "repository": "https://github.com/reallawuae/reallaw-ai-claude-plugin",
+  "documentationUrl": "https://github.com/reallawuae/reallaw-ai-claude-plugin#readme",
+  "privacyPolicyUrl": "https://reallaw.ai/privacy-policy",
+  "keywords": [
+    "uae",
+    "legislation",
+    "legal-research",
+    "reallaw"
+  ]
+}

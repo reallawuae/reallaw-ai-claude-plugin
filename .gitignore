@@ -1,0 +1,15 @@
+# Local credentials and private keys
+.env
+.env.*
+*.pem
+*.key
+
+# Local Claude settings and packaged previews
+.claude/
+*.zip
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/

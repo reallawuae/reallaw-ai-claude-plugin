@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reallaw-ai": {
+      "type": "http",
+      "url": "https://api.reallaw.ai/mcp"
+    }
+  }
+}
