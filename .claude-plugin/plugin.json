@@ -3,6 +3,7 @@
   "displayName": "realLaw AI",
   "version": "1.0.0",
   "license": "MIT",
+  "icon": "./assets/icon.png",
   "description": "Research published UAE legislation and legal updates with realLaw AI, using source documents and citations.",
   "author": {
     "name": "realLaw AI",
